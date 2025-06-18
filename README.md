@@ -11,4 +11,4 @@ This Python project uses **MediaPipe**, **OpenCV**, and **Pygame** to control mu
 ## 🚀 How to Run
 ```bash
 pip install -r requirements.txt
-python main.py
+python HandTracking.py
